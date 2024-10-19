@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajjad Ahmad</h1>
-<h3 align="center">A passionate frontend developer | Python Developer | Final Year BSc Student | Seeking Exciting Opportunities to Make an Impact</h3>
+<h3 align="center">A passionate AI / Machine learning | Python Developer | graduate | Seeking Exciting Opportunities to Make an Impact</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadxdev&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadxdev" /> </p>
 
