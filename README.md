@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadxdev" alt="sajjadxdev" /></a> </p>
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **AI | Machine Learning**
 
 - 📫 How to reach me **sajjadxdev@gmail.com**
 
